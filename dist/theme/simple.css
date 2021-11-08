@@ -148,10 +148,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal ul {
   display: inline-block;
   font-size: 0.8em; 
-  line-height: 1.5; 
+  line-height: 1.2; 
   font-family: "Alegreya Sans", Lato, Impact, sans-serif;
   text-align: left;
-  margin: 0 0 0 1em; }
+  margin: 10px 10px 10px 10px; }
 
 .reveal ol {
   list-style-type: decimal; }
@@ -162,7 +162,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal ul ul {
   font-size: 0.8em; 
-  line-height: 1.2; 
+  line-height: 1.1; 
   list-style-type: square; }
 
 .reveal ul ul ul {
@@ -184,10 +184,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal blockquote {
   display: block;
   position: relative;
-  width: 70%;
-  margin: 20px auto;
+  width: 85%;
+  margin: 10px auto;
   padding: 5px;
-  font-style: italic;
+  font-style: normal;
   background: rgba(255, 255, 255, 0.05);
   box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
 
